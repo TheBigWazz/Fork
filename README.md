@@ -3,7 +3,10 @@
 
 Window Decorations forked from https://github.com/vinceliuice/ChromeOS-kde
 
-### Installing
+* Fork is a theme for Aurorae, a theme engine for KWin window decorations. This theme engine requires KDE 4.3.
+
+### Installing with the Terminal
+**Commands given are for Ubuntu based distros**
 
 Clone files
 > git clone https://github.com/TheBigWazz/Fork
@@ -18,8 +21,24 @@ Copy Fork folder to Aurorae Theme folder
 
 Apply Window decoration 'Fork' through System Settings
 
-<br />
 
+### Point and Click Installing
+
+-Download the tar.gz with your browser. Save it in a location you'll be able to browse to.
+
+-Open the save location of the tar.gz in your file browser
+
+-Right click the tar.gz file and select extract. If given more than one option for extrating, select 'Extract to here'
+
+-Right click and copy the 'Fork' folder that was extracted. 
+
+-Paste the 'Fork' folder here: 
+> ~/.local/share/aurorae/themes/
+
+-Apply Window decoration 'Fork' through system settings
+
+
+<br />
 
 https://user-images.githubusercontent.com/80355486/124805754-c5723880-df10-11eb-84ce-2f8b3843e65a.mp4
 
